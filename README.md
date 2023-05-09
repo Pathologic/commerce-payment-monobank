@@ -1,1 +1,5 @@
-# commerce-payment-monobank
+# Платежный плагин Монобанка для Commerce
+
+Поддерживаемые валюты: UAH, USD, EUR.
+
+Проспонсировал @argirov83
