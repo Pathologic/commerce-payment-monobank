@@ -2,4 +2,4 @@
 
 Поддерживаемые валюты: UAH, USD, EUR.
 
-Проспонсировал @argirov83
+Проспонсировал <a href="https://github.com/argirov83">@argirov83</a>
